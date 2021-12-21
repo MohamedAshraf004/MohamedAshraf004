@@ -5,11 +5,17 @@
 I graduated from FCIS MU in 2020 with GPA 3.3.
 I started my career since 2018 as a freelancer and I now working as .NET Backend Developer in Align Tech Company since April, 2021.
 
-Skills: .NET Core / ASP.NET Core / Razor / Blazor / MVC / Web API / REST / Identity / Docker / JWT / Testing / HTML / CSS / Bootstrap / SQL Server / Mongodb / EF Core / Dapper / Hangfire / Automapper / DDD / Clean Architecture / Repository && UOW Pattern
+Skills: .NET Core / ASP.NET Core / Razor / Blazor / MVC / Web API / REST / Identity / Docker / JWT / Mediator / Testing / HTML / CSS / Bootstrap / SQL Server / Mongodb / EF Core / Dapper / Hangfire / Automapper / DDD / Clean Architecture / Repository && UOW Pattern
 
 - 🔭 I’m currently working on on POS Application for tracking sales people and inventory transactions. 
 - 🌱 I’m currently learning Blazor to enhance my frontend skills. 
 
+## Projects
+  - VanSales (POS) for tracking sales people, sells, stocks and car expenses. (.NET5, Dapper, EF Core, SQL Server, Hangfire, FCM, DDD, API, JWT, Identity)
+  - Waitery for restaurants offers, discounts and order. (.NET5, EF Core, SQL Server, FCM, API, JWT, Identity)
+  - Kids Area App to manage kids area. (ASP.Net Core 3.1, EF Core, SQL Server, MVC, Identity)
+  - 3AxisDesign App for Engineering company. (ASP.Net Core 3.1, EF Core, SQL Server, MVC, Identity) [link](http://3axisdesigneg.com)
+  - E-Learning System Graduation Project for FCIS MU. (ASP.Net Core 3.0, Blazor Server, EF Core, SQL Server, Mongodb, Microservice, API, Identity, Docker)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MohamedAshraf004)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohamedashraf1811//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/MohAshraf1811)  
 
