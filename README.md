@@ -5,7 +5,7 @@
 I graduated from FCIS MU in 2020 with GPA 3.3.
 I started my career since 2018 as a freelancer and I now working as .NET Backend Developer in Align Tech Company since April, 2021.
 
-Skills: .NET Core / ASP.NET Core / Razor / Blazor / MVC / Web API / REST / Identity / Docker / JWT / Testing / HTML / CSS / Bootstrap / SQL Server / Mongodb / Hangfire / Automapper / DDD / Clean Architecture / Repository && UOW Pattern
+Skills: .NET Core / ASP.NET Core / Razor / Blazor / MVC / Web API / REST / Identity / Docker / JWT / Testing / HTML / CSS / Bootstrap / SQL Server / Mongodb / EF Core / Dapper / Hangfire / Automapper / DDD / Clean Architecture / Repository && UOW Pattern
 
 - 🔭 I’m currently working on on POS Application for tracking sales people and inventory transactions. 
 - 🌱 I’m currently learning Blazor to enhance my frontend skills. 
