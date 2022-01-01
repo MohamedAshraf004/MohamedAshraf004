@@ -3,7 +3,7 @@
 ![I am a Full Stack .NET Developer(Blazor)](https://avatars.githubusercontent.com/u/52258427?s=400&u=86d06285d9061a9b90a1c98af4980636084aeeb9&v=4)
 
 I graduated from FCIS MU in 2020 with GPA 3.3.
-I started my career since 2018 as a freelancer and I now working as .NET Backend Developer in Align Tech Company since April, 2021.
+I started my career since 2018 as a freelancer and I am now working as .NET Backend Developer at Align Tech Company since April, 2021.
 
 Skills: .NET Core / ASP.NET Core / Razor / Blazor / MVC / Web API / REST / Identity / Docker / JWT / Mediator / Testing / HTML / CSS / Bootstrap / SQL Server / Mongodb / EF Core / Dapper / Hangfire / Automapper / DDD / Clean Architecture / Repository && UOW Pattern
 
