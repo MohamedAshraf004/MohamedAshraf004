@@ -12,7 +12,7 @@ Skills: .NET Core / ASP.NET Core / Razor / Blazor / MVC / Web API / REST / Ident
 - 🌱 I’m currently enhancing my skills in Docker.
 
 #### Experince
-- *I was working at Align Tech Company as .NET Backend Developer from May, 2021 to April, 2022 and I was working on POS Application for tracking sales people and inventory transactions.
+- * I was working at Align Tech Company as .NET Backend Developer from May, 2021 to April, 2022 and I was working on POS Application for tracking sales people and inventory transactions.
 - *I was working at Bydaya Dev Company as .NET Backend Developer from Aug, 2020 to April, 2021 and I was working on E-Commerce Application.
 - *I was working at ITech Company as .NET Backend Developer from Feb, 2020 to Aug, 2020 and I was working on sales Application.
 
