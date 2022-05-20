@@ -3,12 +3,18 @@
 ![I am a Full Stack .NET Developer(Blazor)](https://avatars.githubusercontent.com/u/52258427?s=400&u=86d06285d9061a9b90a1c98af4980636084aeeb9&v=4)
 
 I graduated from FCIS MU in 2020 with GPA 3.3.
-I started my career since 2018 as a freelancer and I am now working as .NET Backend Developer at Align Tech Company since April, 2021.
+I started my career since 2018 as a freelancer and I am now working as .NET Backend Developer at INTDV Company since May, 2022.
 
 Skills: .NET Core / ASP.NET Core / Razor / Blazor / MVC / Web API / REST / Identity / Docker / JWT / Mediator / Testing / HTML / CSS / Bootstrap / SQL Server / Mongodb / EF Core / Dapper / Hangfire / Automapper / DDD / Clean Architecture / Repository && UOW Pattern
 
-- 🔭 I’m currently working on on POS Application for tracking sales people and inventory transactions. 
-- 🌱 I’m currently learning Blazor to enhance my frontend skills. 
+- 🔭 I’m currently working on AI Conversational project.
+- 🌱 I’m currently learning Blazor to enhance my frontend skills.
+- 🌱 I’m currently enhancing my skills in Docker.
+
+#### Experince
+- *I was working at Align Tech Company as .NET Backend Developer from May, 2021 to April, 2022 and I was working on POS Application for tracking sales people and inventory transactions.
+- *I was working at Bydaya Dev Company as .NET Backend Developer from Aug, 2020 to April, 2021 and I was working on E-Commerce Application.
+- *I was working at ITech Company as .NET Backend Developer from Feb, 2020 to Aug, 2020 and I was working on sales Application.
 
 ## Projects
   - VanSales (POS) for tracking sales people, sells, stocks and car expenses. (.NET5, Dapper, EF Core, SQL Server, Hangfire, FCM, DDD, API, JWT, Identity)
